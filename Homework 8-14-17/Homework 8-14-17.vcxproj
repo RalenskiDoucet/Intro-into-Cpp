@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D91035E4-18D4-4E0B-BF2A-4C1160338F66}</ProjectGuid>
-    <RootNamespace>Helloworld</RootNamespace>
+    <ProjectGuid>{0196765C-6371-4ABC-999F-F1436E7EA271}</ProjectGuid>
+    <RootNamespace>Homework81417</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,8 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Classwork 8-14-17.cpp" />
-    <ClCompile Include="Maincpp.cpp" />
+    <ClCompile Include="HomeWork 8-14-17.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
