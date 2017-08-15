@@ -30,20 +30,22 @@ void main()
 		//and store the result in variables called “a” and “b” print the result to screen.Write code 
 		//that swaps the values for these variables, then print the variables “a” and “b” again.
 		//You should comment your code.
-	    
-		//bool tureFalse=true=(a) enternums\n"
-		//bool trueFalse=true=(b) enternums\n"
-	    intA
-		intB = 900;
-		//std::cin>>900;
-	    //std::cin<<a18;
-	
+	    		int a, b, c;
+				//get user input for values
+				//print the values of a and 
+				//b to the screen
+				a=c
+				b=a
+				c=b
+				
 	//4. Ask the user for 5 numbers and output the average of these numbers.		
-	//cout>> = 5NumsAvgvg
+	
+			   int 5numAvg =  90 
 		
 	//5. Redo question 3 but allows the user to input the values to be swapped and provide information
 	//in the console proving the data was swapped.
-}   // bool tureFalse=true=(a) enternums\n"
-	//bool  trueFalse=true = (b) enternums\n"
-    // cin>>(a);//cout<<(b);
+}   // bool tureFalse=true= (a) enternums\n"
+	// bool trueFalse=true= (b) enternums\n"
+    //cin>> (a);
+	//cout<< (b);
 //Add Comment Collapse

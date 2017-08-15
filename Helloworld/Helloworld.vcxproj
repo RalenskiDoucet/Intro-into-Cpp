@@ -111,6 +111,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Classwork 8-14-17.cpp" />
+    <ClCompile Include="Conditionals Classwork.cpp" />
+    <ClCompile Include="If Else practice.cpp" />
     <ClCompile Include="Maincpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
