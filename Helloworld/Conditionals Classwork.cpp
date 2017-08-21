@@ -31,7 +31,10 @@ int main()
 		//to a month is entered then the program should display an error message. You must use a switch statement
 
 
-	{// takes user input number the input number must be 1-12.
+	{// Ask the user to input a number the input number.
+	// The number the user inputs must be between 1-12.
+
+		"Please Input a number."
 
 		int sumNumber;
 		std::cin >> sumNumber;
@@ -45,57 +48,137 @@ int main()
 		
 		case 1: 
 		//When the user enters the number 2 Febraury is the output answer.
+			std::cout << Febraury
 		std::cout <<28; 
 		break;
 		case 2:
 		//When the user enters the number 3 March is the output answer.
+			std::cout << March
 		std::cout << 31;
 		break;
 		case 3:
 		//When the user enters the number 4 April is the output answer.
+			std::cout << April
 		std::cout <<30;
 		break;
 		case 4 :
 		//When the user enters the number 5 May is the output answer.
+			std::cout << May
 		std::cout <<31;
 		break;
 		case 5:
 		//When the user enters the number 6 June is the output answer.
+			std::cout << June
 		std::cout << 30;
 		break;
 		case 6:
 		//When the user enters the number 7 July is the output answer.
+			std::cout << July
 		std::cout <<31;
 		break;
 		case 7:
 		//When the user enters the number 8 August is the output answer.
+			std::cout << August
 		std::cout << 31;
 		break;
 		case 8:
 		//When the user enters the number 9 September is the output answer.
+			std::cout << September
 		std::cout <<31;
 		break;
 		case 9:
 		//When the user enters the number 10 October is the output answer.
+			std::cout << October
 		std::cout <<30;
 		break;
 		case 10:
 		//When the user enters the number 11 November is the output answer.
+			std::cout << November
 		std::cout << 31;
 		break;
 		case 11:
 		//When the user enters the number 12 Decmber is the output answer.
-		std::cout << 30;
+			std::cout << December;
+			std::cout << 30;
 		break;
-		case 12:
-		//When the user enters the number	 is the output answer.
-		std::cout << 31;
+		default: invaild input.
 	}
 
 
 
 		//4. Redo problem 3 using if statements
 
+	{// Ask the user to input a number the input number.
+	 // The number the user inputs must be between 1-12.
+
+		"Please Input a number."
+
+			int sumNumber;
+		std::cin >> sumNumber;
+
+
+		// when the user enters 1 the month January is the output answer.
+		// user must enter an number 1-12.
+		int sumNumber;
+		std::cin >> sumNumber;
+		switch (sumNumber);
+
+		if:
+			//When the user enters the number 2 Febraury is the output answer.
+			std::cout << Febraury
+				std::cout << 28;
+			break;
+			if:
+			//When the user enters the number 3 March is the output answer.
+			std::cout << March
+				std::cout << 31;
+			break;
+			if:
+			//When the user enters the number 4 April is the output answer.
+			std::cout << April
+				std::cout << 30;
+			break;
+			if:
+			//When the user enters the number 5 May is the output answer.
+			std::cout << May
+				std::cout << 31;
+			break;
+			if:
+			//When the user enters the number 6 June is the output answer.
+			std::cout << June
+				std::cout << 30;
+			break;
+		case 6:
+			//When the user enters the number 7 July is the output answer.
+			std::cout << July
+				std::cout << 31;
+			break;
+			if:
+			//When the user enters the number 8 August is the output answer.
+			std::cout << August
+				std::cout << 31;
+			break;
+			if:
+			//When the user enters the number 9 September is the output answer.
+			std::cout << September
+				std::cout << 31;
+			break;
+			if:
+			//When the user enters the number 10 October is the output answer.
+			std::cout << October
+				std::cout << 30;
+			break;
+		if:
+			//When the user enters the number 11 November is the output answer.
+			std::cout << November
+				std::cout << 31;
+			break;
+		if:
+			//When the user enters the number 12 Decmber is the output answer.
+			std::cout << December;
+			std::cout << 30;
+			break;
+		default: invaild input.
 
 		//5. Convert problem 2 into a ternary operator
 
