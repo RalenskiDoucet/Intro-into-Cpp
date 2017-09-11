@@ -110,6 +110,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Arrays Excersize.cpp" />
+    <ClCompile Include="Avg Eaten By Dragon.cpp" />
     <ClCompile Include="Classwork 8-14-17.cpp" />
     <ClCompile Include="Conditionals Classwork.cpp" />
     <ClCompile Include="If Else practice.cpp" />

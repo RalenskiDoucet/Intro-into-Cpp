@@ -126,10 +126,12 @@
 		std::cin >> sumNumber;
 		switch (sumNumber);
 
-		if:
+		if int sumNumber (2);
+		bool trueFalse = true;
+
 		//When the user enters the number 2 Febraury is the output answer.
 		std::cout << "Febraury";
-		std::cout <<sumNumber "28";
+		std::cout <<  "28";
 		break;
 		if:
 		//When the user enters the number 3 March is the output answer.
